@@ -1,4 +1,5 @@
----
+<script type="text/javascript" src="https://www.free-counters.org/count/kakz"></script><br>
+ <a href='https://www.versicherungen.at/auslandsversicherung-rechner/'>Ausland-Krankenversicherung</a> <script type='text/javascript' src='https://whomania.com/ctr?id=3afa4cbab9e3346d010be78f0f246cc1e46f2992'></script>---
 manufacturer: 
     - xiaomi
 
